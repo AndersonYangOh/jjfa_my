@@ -18,6 +18,7 @@ import App from './App';
 AppRegistry.registerComponent("LearnRN", () => App);
 ## 二、项目功能说明
 ### 1.个人中心功能说明
+![image](https://github.com/ChinaUnicomRI/jjfa_my/blob/master/b3.jpg)
 * 基础信息展示：包括姓名、企业等等
 * 扩展信息展示：包括支撑次数、支撑金额等等
 * 我提供价值：包括回答、提问
