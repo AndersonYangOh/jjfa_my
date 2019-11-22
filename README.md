@@ -1,4 +1,4 @@
-# 基于reactnative的个人中心系统
+# 基于reactnative的用户管理系统
 ## 一、项目初始化
 ### 1.创建项目
 * react-native init 项目名
@@ -17,12 +17,12 @@ import App from './App';
 // step 3.注册项目根组件
 AppRegistry.registerComponent("LearnRN", () => App);
 ## 二、项目功能说明
-### 1.个人中心功能说明
+### 1.用户管理系统功能说明
 ![image](https://github.com/ChinaUnicomRI/jjfa_my/blob/master/b3.jpg)
 * 基础信息展示：包括姓名、企业等等
 * 扩展信息展示：包括支撑次数、支撑金额等等
 * 我提供价值：包括回答、提问
 * 我的记录：包括方案、产品、案例、收藏、积分
-### 2.个人中心操作说明
+### 2.用户管理系统操作说明
 * 点击跳转功能，跳转对应功能页
 * 滑动定位功能，滑动产品定位
